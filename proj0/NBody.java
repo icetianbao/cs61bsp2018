@@ -1,4 +1,6 @@
-class NBody{
+public class NBody{
+    public NBody(){
+    }
     public static double  readRadius(String file){
         In in = new In(file);
         int firstint = in.readInt();

@@ -9,7 +9,7 @@ public class DebugExercise1 {
         return result;
     }
 
-    public static void main(String[] args) {
+    public static void main (String[] args) {
         int t = 10;
         int b = 2;
         int result = divideThenRound(t, b);
